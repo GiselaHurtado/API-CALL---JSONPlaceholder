@@ -1,0 +1,22 @@
+{
+  "name": "api-call---jsonplaceholder",
+  "version": "1.0.0",
+  "description": "Material Data resources : https://jsonplaceholder.typicode.com/users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiselaHurtado/API-CALL---JSONPlaceholder.git"
+  },
+  "author": "Gisela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiselaHurtado/API-CALL---JSONPlaceholder/issues"
+  },
+  "homepage": "https://github.com/GiselaHurtado/API-CALL---JSONPlaceholder#readme",
+  "devDependencies": {
+    "vitest": "^2.0.1"
+  }
+}
